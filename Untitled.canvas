@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"533a2da5aa2e8945","x":-520,"y":-100,"width":250,"height":60,"color":"3","type":"text","text":""},
+		{"id":"85e5c0f45b565d93","x":-120,"y":-100,"width":250,"height":60,"type":"text","text":""},
+		{"id":"19a2f06c781a82fb","x":220,"y":-270,"width":400,"height":400,"type":"file","file":"5 - Implementasi/5.1 - Implementasi pada Sekolah.md"}
+	],
+	"edges":[
+		{"id":"0313238f55af2b96","fromNode":"533a2da5aa2e8945","fromSide":"bottom","toNode":"85e5c0f45b565d93","toSide":"bottom"},
+		{"id":"ed2ed25b28a16d1f","fromNode":"19a2f06c781a82fb","fromSide":"bottom","toNode":"85e5c0f45b565d93","toSide":"bottom"},
+		{"id":"88af7f0d6c828777","fromNode":"533a2da5aa2e8945","fromSide":"right","toNode":"85e5c0f45b565d93","toSide":"left"}
+	]
+}
